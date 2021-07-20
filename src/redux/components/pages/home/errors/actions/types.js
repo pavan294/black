@@ -1,0 +1,3 @@
+export const SET_ERROR_TRUE = "SET_ERROR_TRUE";
+export const SET_ERROR_FALSE = "SET_ERROR_FALSE";
+export const SET_404_ERROR = "SET_404_ERROR";

@@ -1,0 +1,35 @@
+.action-button {
+  padding: 0 !important;
+}
+
+.float-right {
+  float: right;
+}
+
+.float-left {
+  float: left;
+}
+
+.ant-form-item {
+  width: 250px;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.justify-content-between {
+  justify-content: space-between;
+}
+
+.mr-3 {
+  margin-right: 0.75rem;
+}
+
+.mb-4 {
+  margin-bottom: 1rem;
+}
+
+.run-model-form .ant-form-item {
+  width: 100%;
+}
